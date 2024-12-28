@@ -1,2 +1,4 @@
 # sLethal
-lethal mod for fun
+lethal mod for adding new fun funcs.
+
+lethal company v68
